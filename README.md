@@ -124,4 +124,4 @@ C:/path/to/python.exe /path/to/Fake_News_Detection-master/prediction.py
 
 ---
 **Author:**
-Supriya Kulkarni[SMI82128]
+Supriya Kulkarni [SMI82128]
