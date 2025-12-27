@@ -123,9 +123,5 @@ C:/path/to/python.exe /path/to/Fake_News_Detection-master/prediction.py
 * Explore deep learning models for better accuracy
 
 ---
-
-## Author
-
-**Supriya Kulkarni**
-
-```
+**Author**
+Supriya Kulkarni
