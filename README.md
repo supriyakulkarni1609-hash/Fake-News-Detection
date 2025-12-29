@@ -3,8 +3,6 @@
 A **Fake News Detection system** using Python, NLP techniques, and machine learning algorithms.  
 This project classifies news articles as **True** or **False** using preprocessed datasets and trained models.
 
----
-
 ## Project Overview
 
 - Preprocess news text using tokenization, stemming, and other NLP techniques.  
@@ -13,7 +11,6 @@ This project classifies news articles as **True** or **False** using preprocesse
 - Evaluate models with **F1 score** and **confusion matrix**, then select the best performing model.  
 - Predict news credibility using the trained model via `prediction.py` or `simple_fake_news.py`.
 
----
 
 ## Dataset
 
@@ -28,7 +25,6 @@ This project classifies news articles as **True** or **False** using preprocesse
 
 - Original `.tsv` files are in the `liar` folder (for reference).
 
----
 
 ## Project Structure
 
@@ -51,7 +47,6 @@ Fake_News_Detection-master/
 
 ````
 
----
 
 ## Installation
 
@@ -74,7 +69,6 @@ conda install -c scikit-learn
 conda install -c anaconda numpy scipy pandas
 ```
 
----
 
 ## How to Run
 
@@ -94,7 +88,6 @@ C:/path/to/python.exe /path/to/Fake_News_Detection-master/prediction.py
 * Enter a news headline when prompted.
 * Output: **Predicted class (True/False)** and **probability score**.
 
----
 
 ## Features & Workflow
 
@@ -103,7 +96,6 @@ C:/path/to/python.exe /path/to/Fake_News_Detection-master/prediction.py
 3. **classifier.py** – Train multiple classifiers, perform GridSearchCV, evaluate models.
 4. **prediction.py** – Uses final trained Logistic Regression model for classifying user input.
 
----
 
 ## Performance
 
@@ -114,7 +106,6 @@ C:/path/to/python.exe /path/to/Fake_News_Detection-master/prediction.py
   <img width="500" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/RF_LCurve.png">
 </p>
 
----
 
 ## Future Improvements
 
@@ -122,6 +113,5 @@ C:/path/to/python.exe /path/to/Fake_News_Detection-master/prediction.py
 * Increase dataset size
 * Explore deep learning models for better accuracy
 
----
 **Author:**
 Supriya Kulkarni [SMI82128]
