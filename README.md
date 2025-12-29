@@ -31,19 +31,19 @@ This project classifies news articles as **True** or **False** using preprocesse
 ```
 
 Fake_News_Detection-master/
-├── DataPrep.py            # Data preprocessing and EDA
-├── FeatureSelection.py    # Feature extraction & selection
-├── classifier.py          # ML classifiers & model tuning
-├── prediction.py          # Final prediction script
-├── simple_fake_news.py    # Simple prediction interface
-├── final_model.sav        # Trained model
-├── model.pkl              # Alternative saved model
-├── train.csv              # Training dataset
-├── test.csv               # Testing dataset
-├── valid.csv              # Validation dataset
-├── final-fnd.ipynb        # Notebook (optional)
-├── README.md              # Project description
-└── CSS / front-end files  # Optional UI assets
+├── DataPrep.py           
+├── FeatureSelection.py   
+├── classifier.py         
+├── prediction.py          
+├── simple_fake_news.py   
+├── final_model.sav        
+├── model.pkl             
+├── train.csv             
+├── test.csv               
+├── valid.csv             
+├── final-fnd.ipynb       
+├── README.md              
+└── CSS / front-end files 
 
 ````
 
@@ -114,4 +114,5 @@ C:/path/to/python.exe /path/to/Fake_News_Detection-master/prediction.py
 * Explore deep learning models for better accuracy
 
 **Author:**
+
 Supriya Kulkarni [SMI82128]
